@@ -33,7 +33,7 @@ disponibilidade: aberto a projetos freelance e consultorias
 ### Em produção hoje
 
 - **Arquitetura multi-agente de IA** — agentes especializados com memória persistente, consulta cruzada mid-turn e RAG sobre vector stores
-- - **Plataforma SaaS B2C + B2B** — Career Finder (5 versões), Career Optimizer, WorkMap e Workforce Optimizer
+- - **Plataforma SaaS em produção** — usada por **350k+ pessoas**, com versões B2C e B2B, em 3 idiomas → [career.guide](https://career.guide/)
   - - **Multi-gateway de pagamento** — Stripe + dLocal Go + PayPal + PIX com seleção dinâmica por país
     - - **Infra serverless AWS** — Lambda, API Gateway, SQS, S3, MongoDB Atlas, com CI/CD padronizado via GitHub Actions
      
