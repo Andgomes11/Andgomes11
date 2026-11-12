@@ -5,7 +5,7 @@ payments, infrastructure, and the operational work that keeps them running.
 
 ### What I'm building
 
-**[motor-confianca](https://github.com/Andgomes11/motor-confianca)** — a rules
+**[as-advertised](https://github.com/Andgomes11/as-advertised)** — a rules
 engine that checks whether a digital offer delivers what its ad promised, and
 whether the domain selling it belongs to the brand it invokes.
 
@@ -17,8 +17,14 @@ measured round to round, every positive finding opened by hand before it counted
 ### What I do at work
 
 I lead [career.guide](https://career.guide/) technically: an AI career-guidance
-platform used by **350k+ people**, B2C and B2B, in three languages.
+platform that has reached **350k+ users**, peaking at ~2,000 a day, B2C and B2B,
+in three languages.
 
+- Architected the stack of our new mobile product — a TypeScript monorepo with
+  NestJS, PostgreSQL, React Native (Expo) and Next.js on Cloudflare Workers,
+  contract-first APIs, and a CI pipeline with one required gate
+- Built the AI-agent development harness the team ships with — enforced agent
+  rules, specialised review subagents, and hooks that protect tests and migrations
 - Multi-agent AI architecture — specialised agents, persistent memory, RAG over
   vector stores
 - Payments across Stripe, dLocal, PayPal and Pix, routed per country
@@ -39,12 +45,13 @@ here”.
 
 ### Stack
 
-Node · TypeScript · JavaScript · Python · AWS Lambda · API Gateway · Terraform ·
-MongoDB · MySQL · Cloudflare · Bubble · n8n · Cypress · Selenium · GitHub Actions
+TypeScript · Node · NestJS · PostgreSQL · Prisma · React Native · Next.js · Python ·
+AWS Lambda · API Gateway · SQS · Cloudflare · Docker · MongoDB · Cypress · GitHub Actions
 
 ### Reach me
 
 **andersongds37@gmail.com** · [linkedin.com/in/andgomes](https://www.linkedin.com/in/andgomes)
 
-Open to freelance and consulting work — strongest in applied AI, payment
-integrations, and serverless architecture.
+Open to full-time remote roles with US teams (US time zones), and to consulting —
+strongest in applied AI, platform architecture, payment integrations, and
+serverless.
