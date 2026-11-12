@@ -14,6 +14,11 @@ cost R$ 315. No claim in it was false — the deception lived in the composition
 in one omitted phrase. Two sweeps over 50 Brazilian consumer brands, precision
 measured round to round, every positive finding opened by hand before it counted.
 
+**[conferente](https://github.com/Andgomes11/conferente)** — an agent harness
+that never presents unchecked model output as checked. Verification is code, never
+a model call: every verifier returns *passed*, *failed* or *could not check*, and
+that third state survives all the way to whoever reads the answer.
+
 ### What I do at work
 
 I lead [career.guide](https://career.guide/) technically: an AI career-guidance
