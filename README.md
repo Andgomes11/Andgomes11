@@ -68,7 +68,7 @@ round to round, every positive finding opened by hand before it counted.
 
 ## What I do at work
 
-I lead [career.guide](https://career.guide/) technically: an AI career-guidance
+I lead **career.guide** technically: an AI career-guidance
 platform that has reached **350k+ users**, peaking at ~2,000 a day, B2C and B2B,
 in three languages.
 
