@@ -19,6 +19,11 @@ that never presents unchecked model output as checked. Verification is code, nev
 a model call: every verifier returns *passed*, *failed* or *could not check*, and
 that third state survives all the way to whoever reads the answer.
 
+**[nabuco](https://github.com/Andgomes11/nabuco)** — a team of AI agent employees
+for Claude Code and Codex that learns from the mistakes it fixes. Approved plans,
+one writer at a time, an evidence gate, and a brain where resolved errors become
+lessons and trusted lessons become rules.
+
 ### What I do at work
 
 I lead [career.guide](https://career.guide/) technically: an AI career-guidance
